@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.env
+llmscratch
+llmscratch/bin/convert-caffe2-to-onnx
